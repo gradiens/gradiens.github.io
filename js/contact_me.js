@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/jose.leon@grupogradiens.com",
+                url: "//formspree.io/{{site.contact_email}}",
                 type: "POST",
                 data: {
                     name: name,
