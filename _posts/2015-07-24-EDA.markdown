@@ -4,8 +4,8 @@ subtitle: Engagement Driver Analysis
 layout: default
 modal-id: 1
 date: 2015-07-24
-img: eda_Dennys_2.png
-thumbnail: eda_Dennys_2.png
+img: eda_dennys_2.png
+thumbnail: eda_dennys_2.png
 alt: image-alt
 project-date: April 2015
 client: Start Bootstrap
