@@ -3,8 +3,12 @@ baseurl:
 
 # Site settings
 title: Grupo Gradiens
-email: jose.leon@grupogradiens.com
+email: info@grupogradiens.com
 description: "Ofrecemos soluciones analíticas"
+
+#Settings for contact form
+#Using formspree
+contact_email: jose.leon@grupogradiens.com
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -65,10 +69,7 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
-#Settings for contact form
-#Using formspree
 
-contact_email: jose.leon@grupogradiens.com
 
 # Build settings
 markdown: kramdown

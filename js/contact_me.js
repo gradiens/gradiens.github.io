@@ -1,5 +1,6 @@
 ---
 ---
+
 $(function() {
 
     $("input,textarea").jqBootstrapValidation({
@@ -20,7 +21,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/{{ site.contact_email }}",
+                url: "//formspree.io/{{ site.email }}",
                 type: "POST",
                 data: {
                     name: name,

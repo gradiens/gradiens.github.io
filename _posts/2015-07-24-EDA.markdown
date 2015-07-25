@@ -1,0 +1,16 @@
+---
+title: EDA
+subtitle: Engagement Driver Analysis
+layout: default
+modal-id: 1
+date: 2015-07-24
+img: EDA_Dennys_2.png
+thumbnail: EDA_Dennys_2.png
+alt: image-alt
+project-date: April 2015
+client: Start Bootstrap
+category: Web Development
+description: Nuestro producto Gradiens EDA (Engagement Driver Analysis) es un estudio integral que le ayuda a entender claramente cuales son los factores que influyen en la experiencia de su cliente. Para los estudios utilizamos nuestros Kioskos de Recolección de Información en donde los clientes interactúan y proveen su recomendación y además proveemos un Dashboard Gerencial para controlar los factores en tiempo real.
+
+---
+
